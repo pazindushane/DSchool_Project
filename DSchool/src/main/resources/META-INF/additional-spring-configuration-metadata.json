@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "db.password",
+      "type": "java.lang.String",
+      "description": "Description for db.password."
+  }
+] }
